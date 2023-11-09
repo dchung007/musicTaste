@@ -31,7 +31,7 @@ The json will look like the following:
 ```
 Your task is to collect all this data and present it in a more human-readable format.
 
-You will need to produce two outputs: one for songs by count, and the other for artists by count. Additionally, for each song in the output, you should list the count and total time spent listening to that song, broken down into a `dd days hh hours mm minutes ss seconds` format.
+You will need to produce two outputs: one for songs by count, and the other for artists by count. Additionally, for each song in the output, you should list the count and total time spent listening to that song, broken down into a `dd days hh hours mm minutes ss seconds` format. They should be sorted by count plays
 
 I have been vauge with exactly how the output should look like since you will be able to use whatever tech or languge you want, that being said, you shouldn't use one that completes this challenge for you (not sure if it exist, but just in case)
 
